@@ -1,3 +1,3 @@
 # UAV-HSI-Crop-Dataset
 **This dataset is belong to the research paper *"HSI-TransUNet: A Transformer based semantic segmentation model for crop mapping from UAV hyperspectral imagery"*<br>**
-The HSI data is available at https://www.aliyundrive.com/s/wDPHYMsrQqU
+The HSI dataset DOI is https://doi.org/10.57760/sciencedb.01898
